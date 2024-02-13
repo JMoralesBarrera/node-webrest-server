@@ -1,0 +1,1 @@
+console.log.apply('hola mundo desde app.js')
